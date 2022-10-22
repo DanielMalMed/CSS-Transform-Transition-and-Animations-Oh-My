@@ -1,3 +1,5 @@
 main {
-
+    transform: scale(1.1, 1.16) translate(33px, -6px) rotate(-8deg);
+    width: 1127px;
+    height: 771px;
 }
